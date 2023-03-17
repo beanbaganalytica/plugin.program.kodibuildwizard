@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR cyan][B]kodibuild[/B][/COLOR]Wizard'
 BUILDERNAME = 'ndeering5'
 EXCLUDES = [ADDON_ID, 'repository.kodibuilds']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program./wiki/Installing-Builds
-BUILDFILE = 'https://textbin.net/raw/tqybcosexl'
+BUILDFILE = 'https://textbin.net/raw/xraciz2shb'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -109,7 +109,7 @@ REPOZIPURL = 'https://github.com/ndeering5/ndeering5.github.io/blob/master/repos
 # Enable Notification screen Yes or No
 ENABLE = 'Yes'
 # Url to notification file
-NOTIFICATION = 'http://'
+NOTIFICATION = 'https://textbin.net/raw/ezr1461jdi'
 # Use either 'Text' or 'Image'
 HEADERTYPE = 'Text'
 # Font size of header
