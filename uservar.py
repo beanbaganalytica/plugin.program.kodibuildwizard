@@ -107,7 +107,7 @@ REPOZIPURL = 'https://github.com/beanbaganalytica/beanbagrepo/blob/master/reposi
 #        Notification Window                            #
 #########################################################
 # Enable Notification screen Yes or No
-ENABLE = 'Yes'
+ENABLE = 'No'
 # Url to notification file
 NOTIFICATION = 'https://textbin.net/raw/ezr1461jdi'
 # Use either 'Text' or 'Image'
